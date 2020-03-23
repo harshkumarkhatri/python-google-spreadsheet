@@ -1,1 +1,4 @@
 cred.json
+venv
+.idea
+.gitignore
